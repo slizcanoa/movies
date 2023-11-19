@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
-@import url(https://bootswatch.com/5/solar/bootstrap.min.css);
+@import url(https://bootswatch.com/5/cyborg/bootstrap.min.css);
+
 .cursor-pointer{ 
    cursor: pointer; 
 }
